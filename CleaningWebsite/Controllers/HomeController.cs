@@ -1,8 +1,8 @@
-﻿using CleaningWebsite.Models;
+﻿using DrivingSchoolWebsite.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace CleaningWebsite.Controllers
+namespace DrivingSchoolWebsite.Controllers
 {
     public class HomeController : Controller
     {

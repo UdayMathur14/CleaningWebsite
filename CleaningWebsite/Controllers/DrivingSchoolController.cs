@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CleaningWebsite.Controllers
+namespace DrivingSchoolWebsite.Controllers
 {
-    public class CleaningController : Controller
+    public class DrivingSchoolController : Controller
     {
         public IActionResult Index()
         {

@@ -22,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Cleaning}/{action=Index}/{id?}");
+    pattern: "{controller=DrivingSchool}/{action=Index}/{id?}");
 
 app.Run();

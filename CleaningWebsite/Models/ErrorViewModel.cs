@@ -1,4 +1,4 @@
-namespace CleaningWebsite.Models
+namespace DrivingSchoolWebsite.Models
 {
     public class ErrorViewModel
     {
